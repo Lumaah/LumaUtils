@@ -1,5 +1,0 @@
-File Path: Audios\MainMenuTheme.mp3
-Version: 1
-
-File Path: Images\ConfigBanner-1.png
-Version: 1
