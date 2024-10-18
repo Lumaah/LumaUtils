@@ -31,8 +31,9 @@ Credits :
 
 - Vantablack : Inspiration (FunPlusEssentials)
 - Protivogaz : Helping me with some of the scripts
-- Toy : Making a logo (even tho it was changed)
+- Toy : Making a logo (even tho it was changed) & Testing
 - Jason 666 : Helping me with the blacklist
+- Xerxes : Testing
 
 
 Discord Invite : https://discord.gg/xYWRVvzfRF
