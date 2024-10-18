@@ -8,19 +8,19 @@ Whether you're looking for quality-of-life improvements or entirely new gameplay
 LumaUtils aims to provide exciting updates for players to enjoy. Stay tuned for more features as the mod evolves!
 
 Current Features are :
-Custom death messages
-Custom join messages
-Custom kill messages
-If you are the host of the room, custom leave messages.
-A public blacklist system (which is automatically updated by me)
-Auto Assets & DLL Updater
-LumaUtils Settings Menu
-Customizable main menu theme
-First Install Setup
-Collect NPCs instakilling you
-AntiCrash
-Added Custard Counter in Collect Mode
-Readded Prone
+- Custom death messages
+- Custom join messages
+- Custom kill messages
+- If you are the host of the room, custom leave messages.
+- A public blacklist system (which is automatically updated by me)
+- Auto Assets & DLL Updater
+- LumaUtils Settings Menu
+- Customizable main menu theme
+- First Install Setup
+- Collect NPCs instakilling you
+- AntiCrash
+- Added Custard Counter in Collect Mode
+- Readded Prone
 
 
 Credits :
