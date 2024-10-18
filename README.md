@@ -22,6 +22,9 @@ Current Features are :
 - Added Custard Counter in Collect Mode
 - Readded Prone
 - FOV Slider
+- Suicide Key (O)
+- Fog Toggle Key (P)
+(Keys will be bindable in the future)
 
 
 Credits :
