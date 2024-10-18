@@ -21,6 +21,7 @@ Current Features are :
 - AntiCrash
 - Added Custard Counter in Collect Mode
 - Readded Prone
+- FOV Slider
 
 
 Credits :
