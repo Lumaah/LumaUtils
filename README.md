@@ -25,10 +25,10 @@ Current Features are :
 
 Credits :
 
-Vantablack : Inspiration (FunPlusEssentials)
-Protivogaz : Helping me with some of the scripts
-Toy : Making a logo (even tho it was changed)
-Jason 666 : Helping me with the blacklist
+- Vantablack : Inspiration (FunPlusEssentials)
+- Protivogaz : Helping me with some of the scripts
+- Toy : Making a logo (even tho it was changed)
+- Jason 666 : Helping me with the blacklist
 
 
 Discord Invite : https://discord.gg/xYWRVvzfRF
