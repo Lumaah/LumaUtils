@@ -14,7 +14,6 @@ Current Features are :
 - If you are the host of the room, custom leave messages.
 - A public blacklist system (which is automatically updated by me)
 - Auto Assets & DLL Updater
-- LumaUtils Settings Menu
 - Customizable main menu theme
 - First Install Setup
 - Collect NPCs instakilling you
@@ -22,9 +21,10 @@ Current Features are :
 - Added Custard Counter in Collect Mode
 - Readded Prone
 - FOV Slider
-- Suicide Key (O)
-- Fog Toggle Key (P)
-(Keys will be bindable in the future)
+- Suicide Key (Bindable)
+- Fog Toggle Key (Bindable)
+- New Settings menus (keybinds & LumaUtils)
+- LumaUtils Servers (USA & EU)
 
 
 Credits :
