@@ -1,0 +1,8 @@
+LumaUtils US 1|42739766-1a8c-4590-9c5b-d235a8db0baf|us
+LumaUtils US 2|634a5b45-5317-4b5a-a628-89d485089e74|us
+LumaUtils Europe 1|bc27cc36-d07d-4588-a3e2-d626f2cb55cf|eu
+LumaUtils Europe 2|1d9ae726-b41a-4ee9-9b83-06ba0c9ceb6d|eu
+FPE US|234edaa6-ce90-486b-8466-dc1bb4cf0f31|us
+FPE Europe|aeaf4323-4ec2-4376-95f3-a10648586734|eu
+FPE Russia|e2e887f0-6667-4a15-9121-0a57ac7644f9|ru
+FPE Other|8daea7dd-a414-4999-921d-44f46cdf9fb8|ru
