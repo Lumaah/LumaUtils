@@ -16,7 +16,6 @@ Current Features are :
 - Auto Assets & DLL Updater
 - Customizable main menu theme
 - First Install Setup
-- Collect NPCs instakilling you
 - AntiCrash
 - Added Custard Counter in Collect Mode
 - Readded Prone
@@ -25,6 +24,8 @@ Current Features are :
 - Fog Toggle Key (Bindable)
 - New Settings menus (keybinds & LumaUtils)
 - LumaUtils Servers (USA & EU)
+- Reworked Collect 
+- Reworked Survival (WIP)
 
 
 Credits :
@@ -34,6 +35,8 @@ Credits :
 - Toy : Making a logo (even tho it was changed) & Testing
 - Jason 666 : Helping me with the blacklist
 - Xerxes : Testing
+- ToniTheKid : Testing
+- Niko : Making original map select effect
 
 
 Discord Invite : https://discord.gg/xYWRVvzfRF
