@@ -18,7 +18,7 @@ Monster(s) is/are enraged from the start.
 Reworked Survival Mode:
 Easy & Normal difficulties: Increased NPC count to make gameplay a bit longer.
 Hard & Impossible difficulties:
-Now featuring 15 waves, with health and ammo upgrades available in the shop.
+Now featuring 15 waves, with ammo upgrades available in the shop after wave 10.
 New original soundtracks (OSTs) composed by Thaehan.
 Reduced damage taken on Hard and Impossible difficulties for balance.
 Respawning with half your toast if it's higher than 400.
