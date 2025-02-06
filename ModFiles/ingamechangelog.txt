@@ -1,5 +1,7 @@
 LumaUtils - For The Content Update #1
 
+Discord Server :
+https://discord.gg/xYWRVvzfRF
 
 New Features & Additions:
 
@@ -37,6 +39,11 @@ New soundtracks added from new survival osts for the Sandbox mode.
 Buttons in new settings menu now click.
 Changed Credits menu to Changelogs.
 
+IMPORTANT NOTE:
+FPE:Recalled has some compabitility issues with LumaUtils.
+You can only play in solo but not multiplayer.
+If you encounter any issues with both mod install, 
+please report them to me so i can try fixing them.
 
 LumaUtils - Credits
 
