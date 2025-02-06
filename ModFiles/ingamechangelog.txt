@@ -1,0 +1,218 @@
+LumaUtils - For The Content Update #1
+
+
+New Features & Additions:
+
+Asset Updater: Small rewrite for improved performance.
+
+Reworked Collect Mode:
+Monsters can now become enraged when only 5 custards are left. Once enraged, they will chase you until the last custard is collected.
+Added popups from Slendytubbies 2 for a more immersive experience.
+
+Hardcore Mode:
+
+Monster(s) is/are enraged from the start.
+
+Reworked Survival Mode:
+Easy & Normal difficulties: Increased NPC count to make gameplay a bit longer.
+Hard & Impossible difficulties:
+Now featuring 15 waves, with health and ammo upgrades available in the shop.
+New original soundtracks (OSTs) composed by Thaehan.
+Reduced damage taken on Hard and Impossible difficulties for balance.
+Respawning with half your toast if it's higher than 400.
+Ammo Upgrades for each weapons (except melee cuz there's no ammo)
+
+Endless Survival Mode:
+Infinite waves with randomly selected OSTs, each wave getting progressively harder.
+
+Fixes:
+Fixed issues with the custard counter in the Reworked Collect Mode.
+Fixed hitbox issues with monsters in Reworked Collect Mode.
+
+Additional Changes:
+Quotes added before loading into a map: These vary depending on the game mode, map and difficulty.
+An effect when selecting a map in create room menu.
+New banner added for the mod.
+New soundtracks added from new survival osts for the Sandbox mode.
+Buttons in new settings menu now click.
+Changed Credits menu to Changelogs.
+
+
+LumaUtils - Credits
+
+Vantablack : Inspiration (FunPlusEssentials) & Helping me with some of the scripts
+Protivogaz : Helping me with some of the scripts
+Toy : Making a logo (even tho it was changed) & Testing
+YellCrossMon : Making the new lumautils banner & discord server emojis
+Jason 666 : Helping me with the blacklist
+Xerxes1234 (ElementL) : Beta Testing & making the voiceline before Wave 15
+ToniTheKid : Beta Testing
+Rezz : Beta Testing
+YeldarEddinHilal : Beta Testing
+Pgo_vr : Beta Testing
+Niko : Making original map select effect
+
+
+
+Slendytubbies 3 - Credits
+
+Created by:
+Sean
+
+Co-Directed by:
+Santiago Porro
+
+Developed in:
+Unity 3D
+
+Art by:
+Igrisa & Just "Epic"
+
+Testers:
+AnimeSins
+ItsEzzo
+Mimi J
+Pawso
+Santiago Porro
+Sean
+Shade
+Tigerman
+
+
+Additional modeling by:
+Samuel
+
+Translations:
+Emerald400
+FroGonn
+Kian
+Leonardo Padilha
+Lucky
+Luke Liu
+Mimi J
+mmp
+Ruption Shine
+Santiago Porro
+orangejuice
+Scandura
+Shade
+Yax
+
+Music by:
+Jagad K
+Infugue
+ToxicOmega
+
+Special Thanks:
+A Peppers
+Absolun
+AeonJupiter
+Alex Bloyce
+Alex Dunn
+Ang_l
+Angel Juan Pablo Esquivel Sauceda
+Anon Just Anon
+ArathNido
+aydeen66
+Azure
+BTyJlKa
+Battleredwing
+BlackMetalGhost
+Blam Productions
+Blinkopedia
+Bradin tasker
+celeste Godoy Leiva
+CHICHACHU
+CrowshyPasta
+CSreflex264
+DEMONIC REVENANTSLAYER
+Dammii46 Studios
+Damon Fischer
+DaveMan
+Dayan Villalobos Caceres
+Dead Meme
+Devin Hannaford
+Dipsy66
+Drew Sorensen
+DÂ´MACARO 95
+EMIEX
+ElTubbieCosmico
+Ender Gamer1
+Exit 112 2.0
+FoxPlayer
+Francisco Latorraca
+furious445
+GachaTuber8786 Slendytubbies 3
+Galaxy 0023
+genaro
+Ghastly Productions
+HXRepXH
+Ian Walker
+iKarTV
+IvaI
+JackTubby
+Jannsus
+Jazzmir
+Jonathan Romero
+Joel Gaffke
+JULINWORLD 15
+Keegan Finn
+Kendo P.
+Kyle
+LeftShark
+Liam Wallace
+Mikuchan_2019
+MiProGamer el teletubbie
+Mr. ChubbyTubby
+Mr. Marshal
+MrFoxon
+Mysticalxzz
+Nikolsky Ball
+NintendoMan941
+Noir4K
+NoobKingPro
+NotLeftShark
+oliversin xd tops Gameplays y mas
+Omori
+Ondra
+Optikk
+orangejuice
+OutLaik
+Paul Vakrinos
+Paulgamer123
+RetroKrasher
+Robert C
+Roel
+Rory Licht
+sally moulding
+Scot MacRae
+SebastiÃ¡n
+Silversoostar
+Spring
+SupervrixGamer
+Suurmestari
+TNTsans09
+TasteGaming
+thekio18
+TheSepper67
+The_Real_Po
+Thomas The Tank Engine
+Transcending Cat
+UynGamer
+VarekayReal
+vascomoso
+Vikusa .
+W a l t e n
+Ward
+Windows NT
+xLucifer
+XxneonVisionXx
+Yeloz27
+_Commander Laa-Laa_
+ÐÐ½ÑƒÐ±' ÐÑ€Ð°Ðº
+
+AND YOU! For supporting us all this time.
+Thank you so much for the great times!
+
+See you next adventure,
+~ZeoWorks.
