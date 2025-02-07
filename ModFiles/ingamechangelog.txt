@@ -38,6 +38,7 @@ New banner added for the mod.
 New soundtracks added from new survival osts for the Sandbox mode.
 Buttons in new settings menu now click.
 Changed Credits menu to Changelogs.
+Added VSync Toggle & FPS Limiter in settings
 
 IMPORTANT NOTE:
 FPE:Recalled has some compabitility issues with LumaUtils.
