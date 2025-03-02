@@ -1,50 +1,66 @@
-LumaUtils - For The Content Update #1
-
-Discord Server :
+LumaUtils - The Unexpectedly Expected Update Part 1
+Discord Server:
 https://discord.gg/xYWRVvzfRF
 
-New Features & Additions:
+New Features & Additions
 
-Asset Updater: Small rewrite for improved performance.
+Main Menu
 
-Reworked Collect Mode:
-Monsters can now become enraged when only 5 custards are left. Once enraged, they will chase you until the last custard is collected.
-Added popups from Slendytubbies 2 for a more immersive experience.
+Revamped settings menu with a page system.
+Added a custom background.
+Changed the main menu music (Composed by Samuel Virkola, composer for Slendytubbies Worlds).
+Added a button to join the LumaUtils Discord Server.
+Added random text when the host leaves a match.
 
-Hardcore Mode:
+Lobby Menu
 
-Monster(s) is/are enraged from the start.
+Completely remade the room selection menu from scratch.
+Rooms hosted by LumaUtils users are now displayed in cyan.
+Removed the refresh button (refreshes automatically now).
+Added an "Additional Content" indicator at the bottom of the screen.
+Additional Content toggles on and off depending on the room you join.
 
-Reworked Survival Mode:
-Easy & Normal difficulties: Increased NPC count to make gameplay a bit longer.
-Hard & Impossible difficulties:
-Now featuring 15 waves, with ammo upgrades available in the shop after wave 10.
-New original soundtracks (OSTs) composed by Thaehan.
-Reduced damage taken on Hard and Impossible difficulties for balance.
-Respawning with half your toast if it's higher than 400.
-Ammo Upgrades for each weapons (except melee cuz there's no ammo)
+Reworked Collect Mode
 
-Endless Survival Mode:
-Infinite waves with randomly selected OSTs, each wave getting progressively harder.
+Fixed Hardcore Mode not working in multiplayer.
+Added Hardcore Mode indicator in the lobby.
+Added Chase Mode when playing solo.
 
-Fixes:
-Fixed issues with the custard counter in the Reworked Collect Mode.
-Fixed hitbox issues with monsters in Reworked Collect Mode.
+Triggers when only 5 custards remain.
+The Guardian descends into madness (custom music and camera effects).
 
-Additional Changes:
-Quotes added before loading into a map: These vary depending on the game mode, map and difficulty.
-An effect when selecting a map in create room menu.
-New banner added for the mod.
-New soundtracks added from new survival osts for the Sandbox mode.
-Buttons in new settings menu now click.
-Changed Credits menu to Changelogs.
-Added VSync Toggle & FPS Limiter in settings
+
+Survival Mode Fixes & Tweaks
+Fixed Endless Mode not working in multiplayer.
+Fixed Reworked Mode not working in multiplayer.
+Added Endless Mode indicator in the lobby.
+
+Deathmatch ?
+
+Deathmatch is back in 2.5, fully functional (hopefully).
+Note: It will display as Collect Mode for players without LumaUtils.
+
+Blacklist
+
+Added Blacklist Feature for non-host players.
+Added Personal Blacklist.
+Added LUMAAH.
+
+Miscellaneous Improvements
+
+Rewrote the Asset Updater, making it download and load x6 faster.
+Added Dark Mode for Sandbox Mode.
+Added Screamer Volume and Chase Volume settings for Collect Mode.
+Added the ability to see the host in chat.
+
 
 IMPORTANT NOTE:
+
+This is Part 1 of the update – Stay tuned for Part 2!
+
 FPE:Recalled has some compabitility issues with LumaUtils.
 You can only play in solo but not multiplayer.
-If you encounter any issues with both mod install, 
-please report them to me so i can try fixing them.
+
 
 LumaUtils - Credits
 
@@ -56,6 +72,7 @@ Jason 666 : Helping me with the blacklist
 Xerxes1234 (ElementL) : Beta Testing & making the voiceline before Wave 15
 ToniTheKid : Beta Testing
 Rezz : Beta Testing
+Somethings : Beta Testing
 YeldarEddinHilal : Beta Testing
 Pgo_vr : Beta Testing
 k4ceace : Beta Testing

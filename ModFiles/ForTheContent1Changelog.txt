@@ -1,0 +1,75 @@
+LumaUtils - For The Content Update #1
+
+Discord Server :
+https://discord.gg/xYWRVvzfRF
+
+New Features & Additions:
+
+Asset Updater: Small rewrite for improved performance.
+
+Reworked Collect Mode:
+Monsters can now become enraged when only 5 custards are left. Once enraged, they will chase you until the last custard is collected.
+Added popups from Slendytubbies 2 for a more immersive experience.
+
+Hardcore Mode:
+
+Monster(s) is/are enraged from the start.
+
+Reworked Survival Mode:
+Easy & Normal difficulties: Increased NPC count to make gameplay a bit longer.
+Hard & Impossible difficulties:
+Now featuring 15 waves, with ammo upgrades available in the shop after wave 10.
+New original soundtracks (OSTs) composed by Thaehan.
+Reduced damage taken on Hard and Impossible difficulties for balance.
+Respawning with half your toast if it's higher than 400.
+Ammo Upgrades for each weapons (except melee cuz there's no ammo)
+
+Endless Survival Mode:
+Infinite waves with randomly selected OSTs, each wave getting progressively harder.
+
+Fixes:
+Fixed issues with the custard counter in the Reworked Collect Mode.
+Fixed hitbox issues with monsters in Reworked Collect Mode.
+
+Additional Changes:
+Quotes added before loading into a map: These vary depending on the game mode, map and difficulty.
+An effect when selecting a map in create room menu.
+New banner added for the mod.
+New soundtracks added from new survival osts for the Sandbox mode.
+Buttons in new settings menu now click.
+Changed Credits menu to Changelogs.
+Added VSync Toggle & FPS Limiter in settings
+
+IMPORTANT NOTE:
+FPE:Recalled has some compabitility issues with LumaUtils.
+You can only play in solo but not multiplayer.
+If you encounter any issues with both mod install, 
+please report them to me so i can try fixing them.
+
+LumaUtils - Credits
+
+Vantablack : Inspiration (FunPlusEssentials) & Helping me with some of the scripts
+Protivogaz : Helping me with some of the scripts
+Toy : Making a logo (even tho it was changed) & Testing
+YellCrossMon : Making the new lumautils banner & discord server emojis
+Jason 666 : Helping me with the blacklist
+Xerxes1234 (ElementL) : Beta Testing & making the voiceline before Wave 15
+ToniTheKid : Beta Testing
+Rezz : Beta Testing
+YeldarEddinHilal : Beta Testing
+Pgo_vr : Beta Testing
+k4ceace : Beta Testing
+Newy : Beta Testing
+Niko : Making original map select effect
+You : for playing this mod :wink:
+
+Slendytubbies 3 - Credits (not full)
+
+Created by:
+Sean
+
+Co-Directed by:
+Santiago Porro
+
+Developed in:
+Unity 3D
