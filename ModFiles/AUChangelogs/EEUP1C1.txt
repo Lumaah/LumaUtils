@@ -1,0 +1,2 @@
+Fixed reworked collect in multiplayer
+Added Update Checker in Asset Updater (aka what you're basically seeing)
