@@ -1,0 +1,2 @@
+ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/MainMenuTheme.mp3
+ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/LouderVHSFlash.wav
