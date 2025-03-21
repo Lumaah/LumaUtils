@@ -1,8 +1,0 @@
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare1.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare2.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare3.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare4.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare5.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare6.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare7.png
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/nearbysound.wav
