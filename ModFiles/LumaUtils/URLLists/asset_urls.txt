@@ -50,8 +50,8 @@ https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/Luma
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/ResearchLabDay.png
 
 [AssetBundles:Asset Bundles]
-https://github.com/Lumaah/LumaUtils/blob/main/ModFiles/LumaUtils/AssetBundles/stcday.bundle
-https://github.com/Lumaah/LumaUtils/blob/main/ModFiles/LumaUtils/AssetBundles/stcdusk.bundle
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/stcday.bundle
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/stcdusk.bundle
 
 [Audios:Audio Files]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/MainMenuTheme.mp3
