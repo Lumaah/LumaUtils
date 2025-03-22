@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/Luma
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/MountainLairDay.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/MountainLairDusk.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/MountainLairNight.png
+https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/SecretLairDay.png
+https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/PossessedSchoolDay.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/OutskirtsDay.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/OutskirtsDusk.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/OutskirtsNight.png
