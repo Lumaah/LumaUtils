@@ -74,7 +74,10 @@ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audio
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Collect/collectzoom.wav
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Collect/collectcustard.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Collect/collectcustard2.mp3
-https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Collect/outskirtss2.mp3
+
+[Audios\Ambiences:Ambiences Audio Files]
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Ambiences/FortressAmbience.mp3
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Ambiences/OutskirtsS2Ambience.mp3
 
 [SurvivalOST:Reworked Survival OSTs]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/wave1.mp3
