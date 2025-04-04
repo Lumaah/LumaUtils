@@ -1,2 +1,1 @@
-Fixed reworked collect in multiplayer
-Added Update Checker in Asset Updater (aka what you're basically seeing)
+Part 2 is here. Press Update to update the mod.
