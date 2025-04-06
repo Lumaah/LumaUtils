@@ -1,1 +1,6 @@
 Part 2 is here. Press Update to update the mod.
+
+Bugfix #1 : 
+Improved FPE:Recalled Compatibility
+Added Original FPE Compatibility (hopefully)
+Fixed FOV Issues
