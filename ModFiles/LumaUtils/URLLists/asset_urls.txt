@@ -101,6 +101,9 @@ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Survi
 [SandboxAudios:Text Files]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/mm.txt
 
+[:Icon]
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/lumautils.ico
+
 [Popups:Popups]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare1.png
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Popups/scare2.png
