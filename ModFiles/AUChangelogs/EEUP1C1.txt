@@ -1,6 +1,18 @@
-Part 2 is here. Press Update to update the mod.
+Among Others 0.1b Update is available.
 
-Bugfix #1 : 
-Improved FPE:Recalled Compatibility
-Added Original FPE Compatibility (hopefully)
-Fixed FOV Issues
+Changelog :
+
+Content-Wise
+
+Added Military Outpost (3 Threats, 30 Max Custards)
+Added Custom Game Icon
+Improved Asset-Updater speed
+Introduced LumaUtils Menu
+Remade Map Selection screen
+
+Code-Wise
+
+Fixed custom skin arms and legs resetting
+Fixed ZeoWorks Premium/VIP role not being applied properly
+Rewrote parts of the code for better performance and maintainability
+Version name is now fetched online

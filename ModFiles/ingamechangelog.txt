@@ -1,58 +1,22 @@
-LumaUtils - The Unexpectedly Expected Update Part 2
+LumaUtils - Among Others 0.1b
 
 Discord Server:
 https://discord.gg/xYWRVvzfRF  
 
-New Features & Additions  
+Content-Wise
 
-Reworked Collect Mode  
+Added Military Outpost (3 Threats, 30 Max Custards)
+Added Custom Game Icon
+Improved Asset-Updater speed
+Introduced LumaUtils Menu
+Remade Map Selection screen
 
-Added text on-screen when the Guardian descends into madness (5 custards left).  
-Added night vision camera zooming.  
-Custards now play a sound when collected.
+Code-Wise
 
-Reworked Survival Mode  
-
-Upgrades can now be bought infinitely (no MK2 limit).  
-Added toggles to enable/disable new OSTs.  
-Added option to use your own OSTs for Survival.  
-Added Spectator Mode when you die.  
-Added healthbars for bosses.
-
-Reworked Versus Mode  
-
-Monster now sees red gore text about Guardians when 5 custards remain.
-
-Reworked Infection Mode  
-
-Infected players are now visible to each other.  
-Non-infected players’ names are shown with a healthbar (green at max, red when low).
-
-Reworked Sandbox Mode  
-
-Added Flashlight, Camera, Torch, and Classic Flashlight options.
-
-Global Changes  
-
-Added Dynamic T.O.D previews for maps (updated some old ones).  
-Added T.O.D for Mountains, Mountain Lair, and Slendytubbies Classic (Solo & LumaUtils servers only).  
-Added Host Name display in the Lobby Menu (LumaUtils servers only).  
-Added Origins intros before loading S2 maps (Beta feature, might be removed).  
-Improved Anti-Cheat system.  
-Reworked Maps: Cabin only (Beta feature).  
-Adjusted lighting for some indoors maps.  
-Added Epilepsy Warning.  
-Improved Splash Screen (changes with big updates).  
-Added Domination/Revenge messages (5 kills for domination, revenge when they kill you back).  
-Replaced monsters in Collect & Survival for lore consistency.  
-Rewrote the Asset Updater (yes, again), even faster now.
-Added Ambience in Fortress.
-
-Bugfixes  
-
-Fixed night vision camera resetting when returning to the main menu.  
-Fixed upgrades not showing in Reworked Survival if the game isn’t in English.
-
+Fixed custom skin arms and legs resetting
+Fixed ZeoWorks Premium/VIP role not being applied properly
+Rewrote parts of the code for better performance and maintainability
+Version name is now fetched online
 
 IMPORTANT NOTE:
 
