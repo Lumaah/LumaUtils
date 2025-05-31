@@ -1,14 +1,11 @@
-Among Others 0.1b Update is available.
+Among Others 0.15b Update is available.
 
 Changelog :
-Content-Wise
-Added Military Outpost (3 Threats, 30 Max Custards)
-Added Custom Game Icon
-Improved Asset-Updater speed
-Introduced LumaUtils Menu
-Remade Map Selection screen
 Code-Wise
-Fixed custom skin arms and legs resetting
-Fixed ZeoWorks Premium/VIP role not being applied properly
-Rewrote parts of the code for better performance and maintainability
-Version name is now fetched online
+Added LumaUtils GLOBAL server
+Fixed theatre mode issues
+Fixed buttons not properly being placed in main menu
+Added "English Translation"
+Added Translation Manager
+Added Language Selection
+Gave middle finger to room spammer guy

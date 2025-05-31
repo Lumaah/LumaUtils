@@ -103,6 +103,9 @@ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Survi
 [SandboxAudios:Text Files]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/mm.txt
 
+[Translations:Translations]
+https://github.com/Lumaah/Lumautils/raw/refs/heads/main/ModFiles/LumaUtils/Translations/en.txt
+
 [:Icon]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/lumautils.ico
 
