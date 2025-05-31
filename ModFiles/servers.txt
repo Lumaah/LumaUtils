@@ -1,4 +1,3 @@
-LumaUtils GLOBAL|7392f7f8-2aee-4af6-b70b-319110a6d7b1|eu
 LumaUtils US 1|42739766-1a8c-4590-9c5b-d235a8db0baf|us
 LumaUtils US 2|634a5b45-5317-4b5a-a628-89d485089e74|us
 LumaUtils Europe 1|bc27cc36-d07d-4588-a3e2-d626f2cb55cf|eu
