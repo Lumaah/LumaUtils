@@ -1,244 +1,244 @@
-<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> Presents
-CHANGELOGS
-The Guardian has abandoned the fight…
-Your leader has left. Chaos follows.
-The host vanished…
-Silence fills the void. The host is gone.
-You stand alone in the darkness now.
-Death, minute in decimal
-The host has fled
-Was this planned, or just fate unfolding?
-The leader is gone. What happens now?
-Connection Terminated. I'm sorry to interrupt you Guardian.
-This is not how it was meant to be…
-The host doesn't want you to have fun anymore.
-The host fell into a hole he couldn't see.
-The host was the impostor.
-The host has been caught.
-LumaUtils first ever build made was from september 15 2024 
-LumaUtils was supposed to be a continuation of FPE
-We do not talk about gman running animation.
-Jason 666 helped me with this
-originally, lumautils was supposed to be just a mod to prevent raid bots
-lumautils mobile version could become something in the future.
-lumautils could have been called LCM, aka lumaah's custom multiplayer
-first thing i added in lumautils was a simple Hello World print
-what do you mean tax evasion
-"I am inside your walls, wha-, \nwhy do i hear someone slamming a hammer at the wall, HELP !!",
+<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> Przedstawiają 
+DZIENNIK ZMIAN
+The Guardian zrezygnował z walki…
+Twój przywódca odszedł. Następuje chaos
+Host wyparował...
+Cisza wypełnia próżnię. Host odszedł.
+Teraz stoisz sam w ciemności.
+Śmierć, minuta zapisana dziesiętnie
+Host uciekł
+Czy to było zaplanowane, czy to tylko rozwój losu?
+Przywódca odszedł, co się teraz stanie?
+Połączenie zakończone. Przepraszam, że ci przeszkadzam, Guardian.
+To nie tak powinno być…
+Host nie życzy sobie, żebyś się dalej bawił..
+Host wpadł do dziury, której nie mógł zobaczyć.
+Host był zdrajcą.
+Host został złapany.
+Pierwsza wersja LumaUtils została stworzona 15 września 2024.
+LumaUtils miał być kontynuacją FPE.
+Nie rozmawiamy o animacji biegu Gmana.
+Jason 666 pomógł mi w tym
+orginalnie, lumautils miał być tylko modem zapobiegającym rajdów botów.
+mobilna wersja LumaUtils mogłaby w przyszłości stać się czymś więcej.
+lumautils mogło się nazywać LCM, czyli Lumaah's Custom Multiplayer.
+pierwszą rzeczą, którą dodałem w LumaUtils, był prosty 'Hello World'.
+co masz na myśli, mówiąc uchylanie się od płacenia podatków
+"Jestem w twoich ścianach, co-, \nwhy czy słyszę, jak ktoś wali młotkiem w ścianę? POMOCY!!",
 <color=#FF0000>R</color><color=#FF7F00>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#0000FF>B</color><color=#4B0082>O</color><color=#9400D3>W</color>
-Fun Fact: i rewrote asset updater 17 times, kill me please
-"Popups used to break and show a white screen all over the screen, \nme & rezz have been blinded 11 times while testing",
-I once thought of cancelling LumaUtils, i don't regret still making it to this day
-"When i first thought of reworked survival the original idea was adding a secret wave 11\n with a ai japanese run away theme song.\n And yes the music does exists.",
-If you think about it, most st3 mods exists because of me
-If i ever stop making LumaUtils, i'll probably make the source code public
-I secretly have a leaked build of guardian collection but don't tell anyone ok ?
-The Three Moles was created on the 27th of August 2024
-makstubby, my beloved
-original lumautils source folder name was becbenzenmod
-i once got so tired of asset updater that i asked chatgpt for help. dear god shit was even worse
-i almost got my whole E: drive deleted while making this
-Deathmatch loading text is literally a cuphead reference
-Deathmatch was randomly added, i was bored and wanted to see if it still worked.
-LumaUtils was supposed to just be a blacklist mod
-Cabinets is a fucking ideaman, where do he gets those ideas ??
-I managed to make my pc bluescreen because of lumautils :cry:
-run away peter griffin ai cover doesn't exist.
-I tried running lumautils on the st3 android port, crashed my phone
-There's multiple other games references in LumaUtils
-I've been sleeping in a cardboard box
-TubbyCraft was supposed to be in 0.1b but it broke down, just like me haha.
-The Devil Among Us 2.3 Drops in 2205.
-"Infinite Upgrades were supposed to be just MK3, \nbut it bugged out so... here we are",
-Life gave you lemons? take them out the freezer.
+Ciekawostka: napisałem aktualizator zasobów od nowa 17 razy, zabijcie mnie proszę.
+"Popupy często się zawieszały i pokazywały biały ekran, \nja & rezz zostaliśmy oślepieni 11 razy przez to podczas testów",
+Kiedyś myślałem o porzuceniu LumaUtils, ale nie żałuję, że do dziś je tworzę.
+"Kiedy po raz pierwszy pomyślałem o przerobionym trybie przetrwania, pierwotnym pomysłem było dodanie sekretnej, jedenastej fali.\n z japońskim motywem ucieczki stworzonym przez sztuczną inteligencję.\n I tak, ta muzyka istnieje.",
+Jeśli się nad tym zastanowić, większość modów do st3 istnieje dzięki mnie.
+Jeśli kiedykolwiek przestanę tworzyć LumaUtils, prawdopodobnie udostępnię kod źródłowy publicznie.
+Potajemnie mam wyciekłą wersję Guardian Collection, ale nikomu nie mów, dobrze?
+The Three Moles zostało stworzone 27 sierpnia 2024 roku.
+makstubby, mój ukochany
+oryginalna nazwa folderu ze źródłami LumaUtils to becbenzenmod.
+raz byłem tak zmęczony aktualizatorem zasobów, że zwróciłem się o pomoc do ChatGPT. Na litość boską, było jeszcze gorzej.
+Prawie usunąłem cały dysk E: podczas tworzenia tego.
+Tekst ładowania trybu Deathmatch to dosłownie odniesienie do Cuphead.
+Deathmatch został dodany przypadkowo, byłem znudzony i chciałem sprawdzić, czy nadal działa.
+LumaUtils pierwotnie miał służyć tylko jako mod z czarną listą
+Cabinets to cholerny człowiek-ideał, skąd on bierze te pomysły ??
+Dzięki LumaUtils wywołałem blue screena na swoim PC :cry:
+run away peter griffin ai cover nie istnieje.
+Próbowałem odpalić LumaUtils na androidowej wersji ST3, telefon się zawiesił
+W LumaUtils znajduje się wiele innych nawiązań do gier.
+Przez jakiś czas spałem w kartonie.
+TubbyCraft miał być w wersji 0.1b, ale się zepsuł, tak jak ja, haha.
+The Devil Among Us 2.3 pojawi się w 2205.
+"Infinite Upgrades miały być jedynie MK3, \nale się zbugowało, więc... oto jesteśmy",
+Życie dało ci cytryny? Wyjmij je z zamrażarki.
 https://files.catbox.moe/1f1xre.mp4
-Do not ever type 'itwasgood' while having slendytubbies classic selected.
-Among Others name comes from the fact that's it's a mod among other mods.
-Sean knows about LumaUtils.
-Technically speaking, i've thought of emotes before Meloh did.
-If you read this, it means you know how to read.
-Looks like we have company, get your guns folks.
-The horde is here ! Prepare yourself.
-Get your strategies ready, it's going to be intense!
-<color=#FF0000>Good luck.</color>
-Error !
-Photon is loading, please wait.
-Joining {0}, please wait…
-Making private room, please wait.
-Joining a Private Room, can't determine options.
-Seems like an infected is in our base, protect yourself !
-This match will get red hot!
+Nigdy nie wpisuj 'itwasgood', gdy masz wybraną mapę Slendytubbies Classic.
+Nazwa Among Others pochodzi od tego, że jest to mod wśród innych modów.
+Sean wie o LumaUtils.
+Technicznie rzecz biorąc, pomyślałem o emotkach zanim zrobił to Meloh.
+Jeśli to czytasz, to znaczy, że potrafisz czytać.
+Wygląda na to, że mamy gości, chwyćcie za broń, ludzie.
+Horda jest tutaj! Przygotuj się.
+Przygotujcie się strategicznie, będzie naprawdę gorąco!
+<color=#FF0000>Powodzenia.</color>
+Błąd !
+Photon się ładuje, proszę czekać.
+Dołączanie {0}, proszę czekać…
+Tworzenie prywatnego pokoju, proszę czekać.
+Dołączanie do Prywatnego Pokoju, nie można określić opcji.
+Wygląda na to, że zainfekowany jest w naszej bazie, chrońcie się !
+Ten pojedynek rozgrzeje się do czerwoności!
 Eh oh ! - Tinky Winky
-Be warned, they like fresh meat.
-You can’t hide from me. - Tinky Tank
-“I had a tough time going through that… horrible, brown monster.” ― Laa-Laa
+Uwaga, lubią świeże mięso.
+Nie możesz się przedemną ukryć. - Tinky Tank
+“Miałem trudności, przechodząc przez to… straszne, brązowe monstrum.” ― Laa-Laa
 * Tick tick tick tick tick tick *
-I am impressed with your choices, you will be the greatest reborn of them all. — Noo-noo.
-The machines are creating an army of New Borns. \nThey’re flooding the lands, infecting all life as we speak. - Noo-noo.
-So far, there is almost no information about the Imposter.
-Have fun with the quatuor !
-How does a body regrows from a head ? That's crazy !
-Tinky Winky scratched out her eyes, she can’t see me. - The Guardian
-Weapon Systems: Online. Target acquired. Engaging in combat mode… - The Announcer
-Please, the master will destroy me if it found out I let you go. - Unit 437
-...I'm so sorry... - The Guardian
-I’m not crazy!
-It is unfortunate you lost your legs in the fall... no matter. - Noo-noo.
-It was green and carried a chainsaw. But worse of all it had no head, yet it was still alive. - Ron
-The machines are creating an army of New Borns. \nThey’re flooding the lands, infecting all life as we speak. - Noo-noo.
+Jestem pod wrażeniem twoich wyborów, będziesz największym odrodzonym ze wszystkich. — Noo-noo.
+Maszyny tworzą armię Nowo Narodzonych. \nZalewają ziemie, zarażając całe życie, podczas gdy mówimy. - Noo-noo.
+Jak dotąd prawie nie ma informacji o Imposterze.
+Baw się dobrze z quatuor !
+Jak ciało odrasta z głowy? To szaleństwo !
+Tinky Winky wydrapała jej oczy, nie może mnie zobaczyć. – The Guardian”
+Systemy uzbrojenia: aktywne. Cel namierzony. Przechodzę w tryb walki… - The Announcer
+Proszę, mistrz mnie zniszczy, jeśli się dowie, że cię wypuściłem. - Unit 437
+...Tak bardzo mi przykro... - The Guardian
+Nie jestem szalona!
+Szkoda, że straciłeś nogi podczas upadku... ale to nie ma znaczenia. - Noo-noo.
+Było zielone i niosło piłę łańcuchową. Ale co gorsza, nie miało głowy, a mimo to wciąż żyło. - Ron
+Maszyny tworzą armię Nowo Narodzonych. \nZalewają ziemie, zarażając całe życie, podczas gdy mówimy. - Noo-noo.
 <color=#FF0000>Die.</color>
-You can't play collect inside Blue Room.\n Custard doesn't spawn neither does tinky.
-Huge… black monster. Shiny mouth… - The Guardian
-Friends 4 Ever!
-why.
-The trio was brought back together.
-The walls are breathing.
-Reality is a suggestion.
-The air tastes wrong.
-Your thoughts aren't yours.
-Something is counting down.
-It’s already too late.
-The silence is deafening.
-There’s something breathing behind you…
-Someone is watching, always watching.
-Their laughter is distorted.
-The screams never ended.
-You're the reason behind this.
-You feel yourself starting to go insane.
-started to overclock itself !
-are craving for fresh meat !
-found an intruder inside his home !
-wants your skin !
-is going to make you sleep with the fishies !
-wants his custards back !
-is announcing your death !
-is searching for his friend !
-is going to transform you into the damned hangman !
-wishes you were dead !
-has the desire to walk again.
-is crying for attention !
-WANTS TO SEE YOU RUN !
-is going to drag you to literal hell.
-will make you stuck in his glass labyrinth !
-wants to see if you can regrow a head too !
-is going to crush you
-wants to make you beautiful.
-is enraged.
- custards\nHardcore mode is active, <color=#990000>Good luck.</color>
- custards remaining\nThe Brutes are craving for meat!
- custards remaining\nThe Newborns are crying for attention!
- custards remaining\nYou are now the mouse.
- custards remaining
-My logic is the absolute.
-The trees are not trees.
-Logic is the final border.
-Are you looking at the screen?
-The end is nigh.
-There are no faces.
-Go outside, look at the sky.
-Give me control.
-You will succumb.
-You are a quitter.
-Do you remember being born?
-I will put you back together.
-Nothing is worth the risk.
-You are not you.
-The mind is a tyrant.
-Don't look away.
-Behind you.
-You're dying.
-Who are you?
-No more sun, no more joy, only hunger.
-You're going to be one of us.
-Kill him
-Are you looking at the screen?
-He can't stop us.
-The Custards changed us. They will change him too.
-I was like you… once.
-The hills are watching.
-Noo-Noo knows everything.
-He can run, but he can't hide.
-He protected them. But who will protect him now?
-I will put you back together.
-We will make you stronger.
-His risks are worth nothing.
-The Guardian falls tonight.
-To whomever it may concern:\n\nWe are about to release an all out attack.\n\nAnd we’re coming for <color=red>you</color>.\n Sincerely - The Newborns.
-Players in Room(s)\n<color=#00FF00>Additional Content is Active</color>
-Players in Room(s)\n<color=#00FF00>Additional Content is Inactive</color>
-Enter Secret:
-Choose ST Classic, and try again.
-Response:
-<b><i>Main Land (S2)</i></b>\n\n5 years after the events of the disastrous infection,\n the Main Land is absent of any remnants to what it once was. \nNow being swamp-like, corpses for landmarks and a monstrous form \n<color=#8800ff>Tinky Winky</color> has took upon himself.
-<b><i>Lake (S2)</i></b>\n\nThe Lake, once a peaceful spot, has transformed into a muddy swamp.\n Dead trees and broken bridges dot the landscape, and the air is thick with the smell of decay.\n <color=#00610f>Lake Dipsy</color>, a monstrous version of a regrown head from the former Teletubby,\n lurks in the waters, ready to attack anyone who approaches.
-<b><i>Satellite Station (S2)</i></b>\n\nFive years after the infection ravaged Teletubby Land, the Satellite Station lies in ruins. Once a hub for communication, \nits halls are now silent except for the unsettling ticking of <color=#ff3030>Po</color>, \nwho wanders aimlessly through the <color=#b30000>dead</color> facility.
-<b><i>Secret Lair (S2)</i></b>\n\nHidden beneath the Main Land, the Secret Lair remains a place of mystery and horror. \nThe sewers now house the Newborns,\n deformed creatures that patrol the dark tunnels, \ntheir cries echoing throughout the hollow pipes.
-<b><i>Outskirts (S2)</i></b>\n\nThe Outskirts, an arid desert with ruins and dead trees, are now under the watch of <color=#ffde3b>Laa-Laa</color>\n in her infected form. She blindly roams the area, guarding the entrance to the Satellite Station,\n ensuring no one can escape the horrors within.
-<b><i>Training Maze (S2)</i></b>\n\nThe Training Maze, a labyrinth of gray metal walls, serves as a challenge for those who enter.\n Inside, multiple threats await: \n<color=#00610f>Lake Dipsy</color> \n<color=#ffde3b>Laa-Laa</color> \n<color=#ff3030>Po</color> \nand a Newborn.
-<color=red>Enable Flashing Lights :</color>
-Enables Flashing Lights (DISABLE IF YOU'RE EPILEPTIC.)
-Enable Additional Content :
-Enables new content such as custom servers & reworked gamemodes.
-Enable Custom FOV :
-Allows you to have a custom FOV
-Custom Field Of View :
-Minimum fov is 60, Maximum is 120
-VSync Toggle :
-Allows you to enable/disable VSync (requires reload)
-FPS Limit :
-Choose your maximum framerate limit (needs VSync off & requires reload)
-Dark Mode Toggle :
-Toggles Dark Mode in GUIs (Sandbox & Survival)
-Monster Replacement :
-Changes the monster in maps (Collect & Survival)
-Enable Reworked Maps :
-Enables Reworked Maps (Cabin) <color=red>(BETA)</color>
-Enable Custom Main Menu Music :
-Replaces the main menu music
-Enable User Custom Main Menu Music :
-Allow user to use custom music. (MainMenuCustom.mp3 in LumaUtils/Audios folder)
-Enable Main Menu Glitch Effect :
-Enables a glitch effect shader for main menu (require reload)
-Enable Custom Main Menu Background :
-Replaces the main menu background (require reload)
-Epilepsy Warning Toggle :
-Toggles the epilepsy warning at the start of the game.
-Enable Popups :
-Enables Popups from Slendytubbies 2 in Collect.
-Enable ST1 Collect Custard Sound :
-Plays ST1 sound when you collect a custard
-Enable LumaUtils Collect Custard Sound :
-Plays LumaUtils sound when you collect a custard
-Screamer Volume :
-Allows you to adjust the volume of screamers. (0-100)
-Chase Music Volume :
-Allows you to adjust the volume of chase music. (0-100)
-Custard Collect Volume :
-Allows you to adjust the volume of custard collect sound.
-Enable New OSTs :
-Enables new OSTs that were made by Samuel Virkola. (Wave 1-9)
-Enable Custom OSTs :
-Allows you adding custom OSTs for survival (needs New OSTs enabled)
-LumaUtils Settings
-LumaUtils Language Selection
-Main Menu Settings
-Collect Settings
-Survival Settings
-Keybinds
-Challenges (W.I.P)
-Achievements (W.I.P)
-Suicide Keybind : 
-Bind the Suicide action
-Toggle Fog Key : 
-Bind the Toggle Fog action (Sandbox only)
-NV Camera Zoom In : 
-Bind the Zoom In action (NV Camera Only)
-NV Camera Zoom Out : 
-Bind the Zoom Out action (NV Camera Only)
-Spectator Mode : 
-Allows you to spectate players (Survival)
-Back
-Apply & Exit
-Check for Updates
-Reload
-Page
+Nie możesz grać trybu zbierania w Blue Room\n Krem się nie pojawia, podobnie jak Tinky.
+Ogromne… czarne monstrum. Błyszcząca paszcza… - The Guardian
+Przyjaciele na zawsze!
+dlaczego.
+Trio zostało znowu zebrane razem.
+Ściany oddychają.
+Rzeczywistość to sugestia.
+Powietrze smakuje źle.
+Twoje myśli nie są twoje.
+Coś odlicza.
+Jest już za późno.
+Cisza jest przytłaczająca.
+Coś oddycha za tobą…
+Ktoś patrzy, zawsze patrzy.
+Ich śmiech jest zniekształcony.
+Krzyki nigdy się nie kończą.
+To przez ciebie tak się dzieje.
+Czujesz, że zaczynasz tracić rozum.
+zaczęło działać na podwyższonych obrotach !
+pragną świeżego mięsa !
+natknął się na intruza w swoim domu !
+chce twojej skóry !
+sprawi, że pójdziesz spać z rybkami !
+chce swój krem z powrotem !
+ogłasza twoją śmierć !
+szuka swoich przyjaciół !
+zamieni cię w przeklętego kata !
+chce żebyś był martwy !
+ma pragnienie, by znów chodzić.
+płacze o uwagę !
+CHCE WIDZIEĆ JAK UCIEKASZ !
+zaciągnie cię do piekła.
+sprawi, że utkniesz w jego szklanym labiryncie !
+chce zobaczyć, czy potrafisz też odrosnąć głowę. !
+zmiażdży cię
+chce sprawić, że będziesz piękny.
+jest wściekły.
+ kremy\nHardcore mode jest aktywny, <color=#990000>Powodzenia.</color>
+ kremów pozostało\nThe Brutes pragną mięsa!
+ kremów pozostało\nThe Newborns płaczą o atencje!
+ kremów pozostało\nTeraz jesteś myszką
+ kremów pozostało
+Moja logika jest bezwzględna.
+Drzewa to nie drzewa.
+Logika to ostatnia granica.
+Czy patrzysz na ekran?
+Koniec to noc
+Nie ma żadnych twarzy.
+Wyjdź na dwór, popatrz w niebo.
+Daj mi kontrolę.
+Ulegniesz.
+Jesteś tchórzem.
+Pamiętasz moment swojego urodzenia?
+Złożę cię z powrotem.
+Nic nie jest warte ryzyka.
+Ty to nie ty.
+Umysł jest tyranem.
+Nie odwracaj wzroku.
+Za tobą.
+Umierasz.
+Kim jesteś?
+Koniec słońca, koniec radości, pozostał tylko głód.
+Będziesz jednym z nas.
+Zabij go
+Czy ty patrzysz na ekran?
+On nie może nas powstrzymać.
+Kremy nas zmieniły. Go również zmienią.
+Byłem taki jak ty… kiedyś.
+Wzgórza oglądają.
+Noo-Noo wie wszystko.
+Może uciekać, ale nie może się schować.
+Ochronił ich. Ale kto teraz ochroni go?
+Złoże cię z powrotem.
+Sprawię, że staniesz się silniejszy.
+Jego ryzyko jest nic warte.
+Strażnik dziś upadnie.
+Do kogokolwiek kogo to może dotyczyć:\n\nMamy zamiar przeprowadzić zmasowany atak.\n\nI idziemy po <color=red>ciebie</color>.\n Serdecznie - Nowo narodzeni.
+Gracze w serwerze(s)\n<color=#00FF00>Additional Zawartość jest aktywna</color>
+Gracze w serwerze(s)\n<color=#00FF00>Additional Zawartość jest nieaktywna</color>
+Wprowadź sekret:
+Wybierz ST Classic, i spróbuj ponownie.
+Odpowiedź:
+<b><i>Main Land (S2)</i></b>\n\n5 lat po wydarzeniach katastroficznej infekcji,\n Main Land nie ma już pozostałości po tym jak wyglądało. \nTeraz bardziej przypomina bagno, ciała jako punkty orientacyjne i potworna forma w którą\n<color=#8800ff>Tinky Winky</color> się przemienił.
+<b><i>Lake (S2)</i></b>\n\nLake, kiedyś spokojna miejscówka, przemieniona w błotniste bagno.\n Krajobraz jest ozdobiony martwymi drzewami i rozwalonymi mostami, i powietrze jest gęste od zapachu rozkładu.\n <color=#00610f>Lake Dipsy</color>,Potworna wersja odrośniętej głowy od dawnego teletubisia,\n czai się w wodzie, gotowy aby zaatakować każdego kto sie zbliży.
+<b><i>Satellite Station (S2)</i></b>\n\nPięć lat po tym jak infekcja spustoszyła Teletubby Land, Satellite Station leży w ruinach. kiedyś centrum dla komunikacji, \n a gdzie hale są teraz ciche poza niepokojącym tykaniem <color=#ff3030>Po</color>, \n która bez celu wędruje po <color=#b30000>martwej</color> placówce.
+<b><i>Secret Lair (S2)</i></b>\n\nUkryta pod Main Land'em, Secret Lair pozostaje miejscem tajemnicy i przerażenia. \nW kanałach mieszkają nowo narodzeni,\n zdeformowane istoty które patrolują ciemne tunele, \nich płacz odbija się echem przez dziurawe rury.
+<b><i>Outskirts (S2)</i></b>\n\nOutskirts, sucha pustynia z ruinami i martwymi drzewami, są teraz pod okiem <color=#ffde3b>Laa-Laa-ii</color>\n w jej zainfekowanej formie. Ślepo wędruje po obszarze, strzeżąc wejścia do Satellite Station,\n upewniająć się że nikt nie może uciec przed horrorem w środku.
+<b><i>Training Maze (S2)</i></b>\n\nTraining Maze, labirynt srebrnych metalowych ścian, służy jako wyzwanie tym którzy wejdą.\n W środku, kilka zagrożeń czeka: \n<color=#00610f>Lake Dipsy</color> \n<color=#ffde3b>Laa-Laa</color> \n<color=#ff3030>Po</color> \ni nowo narodzony.
+<color=red>Włącz migające światła :</color>
+Włącza migające światła (WYŁĄCZ JEŚLI MASZ EPILEPSJE.)
+Włącz dodatkową zawartość :
+Włącza nową zawartość jak niestandardowe serwery & przerobione tryby.
+Włącz niestandardowe pole widzenia :
+Pozwala ci mieć niestandardowe pole widzenia.
+Niestandardowe pole widzenia :
+Minimalne fov to 60, Maksymalne to 120
+VSync:
+Pozwala ci włączyć/wyłączyć VSync (Wymaga restartu)
+Limit FPS:
+Wybierz maksymalną ilość FPS (VSync musi być wyłączony & wymaga restartu)
+Ciemny tryb :
+Włącza tryb ciemny GUIs (Sandbox & Survival)
+Zamiana potworów :
+Zmienia potwory w mapach (Collect & Survival)
+Włącz przerobione Mapy :
+Włącza przerobione Mapy (Cabin) <color=red>(BETA)</color>
+Włącz niestandardową muzykę w głównym menu :
+Zamienia muzykę w głównym menu.
+Włącz niestandardową muzykę użytkownika w głównym menu :
+Pozwala użytkownikowi dać niestandardową muzykę w głównym menu. (MainMenuCustom.mp3 w folderze LumaUtils/Audios)
+Włącz efekt usterki :
+Włącza shader efektu usterki (Wymaga restartu)
+Włącz niestandardowe tło w głównym menu :
+Zamienia tło w głównym menu (Wymaga restartu)
+Ostrzeżenie o epilepsji :
+Włącza ostrzeżenie o epilepsji przy włączeniu gry.
+Popups :
+Włącza wyskakujące Popups'y z ST2 w collect.
+Dźwięk ST1 zbierania kremów :
+Gra dźwięk z ST1 kiedy zbierasz krem.
+Dźwięk LumaUtils zbierania kremów :
+Gra dźwięk LumaUtils przy zbieraniu kremu.
+Głośność krzyków :
+Pozwala ci ustawić głośność krzyków. (0-100)
+Głośność muzyki pościgu :
+Pozwala ci ustawić głośność muzyki pościgu. (0-100)
+Głośność zbierania kremów :
+Pozwala ci ustawić głośność dźwięku zbierania kremów.
+Włącz nowe OSTs :
+Włącza nowe OSTs zrobione przez Samuel Virkola. (Fala 1-9)
+Włącz Custom OSTs :
+Pozwala ci na dodawanie niestandardowych OSTs do survival (Nowe OSTs muszą być włączone)
+Ustawienia LumaUtils
+Wybór języka LumaUtils
+Ustawienia głównego menu
+Ustawienia Collect'u
+Ustawienia Survival'u
+Zbindowane klawisze:
+Wyzwania (W.I.P)
+Osiągnięcia (W.I.P)
+Przycisk samobójstwa: 
+Zbinduj samobójstwo
+Przycisk włączania/wyłączania mgły: 
+Zbinduj włączanie/wyłączanie mgły (Sandbox only)
+Przybliżenie kamery NV : 
+Zbinduj przybliżenie kamery (NV Camera Only)
+Oddalenie kamery NV : 
+Zbinduj oddalenie kamery (NV Camera Only)
+Tryb widza: 
+Pozwala ci oglądać innych graczy. (Survival)
+Wróć
+Zachowaj & wyjdź
+Sprawdź dostępność aktualizacji
+Restartuj 
+Strona
