@@ -242,3 +242,7 @@ Aplicar y salir
 Buscar actualizaciones
 Recargar
 Página
+Sí, ya sé que la página de carga se parece a Essential ahora.
+GUI Configuración
+Arma Adicional Displayer :
+Añade una nueva información gui para el arma actual que está sosteniendo

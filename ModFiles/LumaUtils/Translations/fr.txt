@@ -27,7 +27,7 @@ Comment ça, évasion fiscale ?
 « Je suis dans tes murs, qu-… \npourquoi j’entends quelqu’un cogner avec un marteau ? À L’AIDE !! »
 <color=#FF0000>R</color><color=#FF7F00>A</color><color=#FFFF00>I</color><color=#00FF00>N</color><color=#0000FF>B</color><color=#4B0082>O</color><color=#9400D3>W</color>
 Fun fact : j’ai réécrit l’updater d’assets 17 fois, tuez-moi.
-« Les popups plantaient et affichaient un écran blanc partout, \nmoi et Rezz avons été aveuglés 11 fois pendant les tests. »
+« Les popups plantaient et affichaient un écran blanc partout, \nRezz et moi avons été aveuglés 11 fois pendant les tests. »
 J’ai failli annuler LumaUtils à un moment, mais je ne regrette pas de l’avoir fait au final.
 « Quand j’ai pensé à une refonte du mode survie, l’idée initiale était d’ajouter une vague secrète 11\n avec une chanson japonaise de fuite en fond.\n Et oui, la musique existe. »
 Si on y pense, la majorité des mods ST3 existent grâce à moi.
@@ -242,3 +242,7 @@ Appliquer & Quitter
 Vérifier les mises à jour
 Recharger
 Page
+Oui, je sais que le menu de chargement ressemble a celui d'Essential.
+Paramètres GUI
+GUI d'arme additionnel
+Affiche un GUI additionnel montrant des info sur l'arme que l'on à

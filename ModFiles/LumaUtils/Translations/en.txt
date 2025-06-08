@@ -1,4 +1,4 @@
-<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> Presents
+<color=#b30000>Zeo</color>Works & <color=#4de7ff>Lumaah</color> PRESENTS
 CHANGELOGS
 The Guardian has abandoned the fight…
 Your leader has left. Chaos follows.
@@ -242,3 +242,7 @@ Apply & Exit
 Check for Updates
 Reload
 Page
+Yes, i know that the loading page looks like Essential now.
+GUI Settings
+Additional Weapon Displayer :
+Adds a new gui info for the current weapon you're holding

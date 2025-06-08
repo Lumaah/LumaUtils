@@ -242,3 +242,7 @@ Zachowaj & wyjdź
 Sprawdź dostępność aktualizacji
 Restartuj 
 Strona
+Tak, wiem, że strona ładowania teraz wygląda jak Essential.
+Ustawienia GUI
+Dodatkowy Wyświetlacz Broni :
+Dodaje nowy interfejs GUI z informacjami o aktualnie trzymanej broni
