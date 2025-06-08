@@ -1,11 +1,13 @@
-Among Others 0.15b Update is available.
+Among Others 0.2b Update is available.
 
 Changelog :
-Code-Wise
-Added LumaUtils GLOBAL server
-Fixed theatre mode issues
-Fixed buttons not properly being placed in main menu
-Added "English Translation"
-Added Translation Manager
-Added Language Selection
-Gave middle finger to room spammer guy
+
+Added Translations (Spanish, Russian, French, Polish)
+Added GUI for Weapon Info
+Remade Reworked Collect Chase Effect
+18th asset updater rewrite.
+General Bugfixes & Optimizations
+Added custom font for Russian
+Changed Player Hitboxes (Now more accurate, and you can correctly hit players in deathmatch now.)
+
+(PLEASE NOTE THAT RUSSIAN TRANSLATION MIGHT HAVE SOME INACCURACIES)
