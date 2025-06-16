@@ -1,22 +1,28 @@
-LumaUtils - Among Others 0.15b
+LumaUtils - Among Others 0.2b
 
 Discord Server:
 https://discord.gg/xYWRVvzfRF  
 
 Code-Wise
 
-Added LumaUtils GLOBAL server
-Fixed theatre mode issues
-Fixed buttons not properly being placed in main menu
-Added "English Translation"
-Added Translation Manager
-Added Language Selection
-Gave middle finger to room spammer guy
+Added Translations (Spanish, Russian, French, Polish)
+Added GUI Settings
+Added GUI for Weapon Info
+Remade Reworked Collect Chase Effects
+18th asset updater rewrite.
+General Bugfixes & Optimizations
+Added custom font for Russian
+Changed Player Hitboxes (Now more accurate, and you can correctly hit players in deathmatch now.)
+
+(PLEASE NOTE THAT RUSSIAN TRANSLATION MIGHT HAVE SOME INACCURACIES)
 
 IMPORTANT NOTE:
 
 FPE:Recalled has some compabitility issues with LumaUtils.
 You can only play in solo but not multiplayer.
+
+Classic FPE, should work fine with LumaUtils.
+Essential, small GUIs issues, playable.
 
 
 LumaUtils - Credits
