@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/Luma
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/RejectFacilityNight.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/ResearchLabDay.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/MilitaryOutpostDay.png
+https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/LobbyImages/TubbyCraftDay.png
 
 [AssetBundles:Asset Bundles]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/stcday.bundle
@@ -60,6 +61,7 @@ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Asset
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/cabinrework.bundle
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/militaryoutpost.bundle
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/ldfont.bundle
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/AssetBundles/tubbycraft
 
 
 [Audios:Audio Files]
