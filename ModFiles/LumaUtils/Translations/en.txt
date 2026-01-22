@@ -246,3 +246,7 @@ Yes, i know that the loading page looks like Essential now.
 GUI Settings
 Additional Weapon Displayer :
 Adds a new gui info for the current weapon you're holding
+Custom Survival UI
+Changes how the UI in Survival looks.
+Roulette Map Selector
+Changes how the map selection looks (roulette-style)
