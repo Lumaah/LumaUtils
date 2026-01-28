@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/Luma
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/MainMenuSplash.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/AmmoBackground.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/Brute1.png
+https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/clockIcon.png
 
 [Images\Collect:Collect Textures]
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/Collect/camera.png
@@ -69,6 +70,7 @@ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Asset
 [Audios:Audio Files]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/MainMenuTheme.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/LouderVHSFlash.wav
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Audios/Enraged1.mp3
 
 [Achievements:Achievement Files]
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Achievements/1.png
