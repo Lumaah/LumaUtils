@@ -163,7 +163,7 @@ Je vais te réparer.
 On va te rendre plus fort.
 Ses risques ne valent rien.
 Le Gardien tombera ce soir.
-À ceux concernés :\n\nNous sommes sur le point de lancer une attaque totale.\n\nEt nous venons pour <color=red>toi</color>.\n Signé – Les Nouveau-nés.
+À ceux concernés :\n\nNous sommes sur le point de lancer une attaque totale.\n\nEt nous venons pour <color=red>toi</color>.
 Joueurs dans la/les salle(s)\n<color=#00FF00>Contenu supplémentaire actif</color>
 Joueurs dans la/les salle(s)\n<color=#00FF00>Contenu supplémentaire inactif</color>
 Entrer un code secret :
@@ -246,3 +246,9 @@ Oui, je sais que le menu de chargement ressemble a celui d'Essential.
 Paramètres GUI
 GUI d'arme additionnel
 Affiche un GUI additionnel montrant des info sur l'arme que l'on à
+Interface utilisateur personnalisée pour le mode Survie
+Modifie l'apparence de l'interface utilisateur dans le mode Survie.
+Sélecteur de carte roulette
+Modifie l'apparence de la sélection de carte (style roulette).
+Affichage spectateur
+Permet de basculer entre la vue à la troisième personne et la vue orbitale.

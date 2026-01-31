@@ -163,7 +163,7 @@ Złoże cię z powrotem.
 Sprawię, że staniesz się silniejszy.
 Jego ryzyko jest nic warte.
 Strażnik dziś upadnie.
-Do kogokolwiek kogo to może dotyczyć:\n\nMamy zamiar przeprowadzić zmasowany atak.\n\nI idziemy po <color=red>ciebie</color>.\n Serdecznie - Nowo narodzeni.
+Do kogokolwiek kogo to może dotyczyć:\n\nMamy zamiar przeprowadzić zmasowany atak.\n\nI idziemy po <color=red>ciebie</color>.
 Gracze w serwerze(s)\n<color=#00FF00>Additional Zawartość jest aktywna</color>
 Gracze w serwerze(s)\n<color=#00FF00>Additional Zawartość jest nieaktywna</color>
 Wprowadź sekret:
@@ -246,3 +246,9 @@ Tak, wiem, że strona ładowania teraz wygląda jak Essential.
 Ustawienia GUI
 Dodatkowy Wyświetlacz Broni :
 Dodaje nowy interfejs GUI z informacjami o aktualnie trzymanej broni
+Niestandardowy interfejs użytkownika trybu Survival
+Zmienia wygląd interfejsu użytkownika trybu Survival.
+Selektor map w stylu ruletki
+Zmienia wygląd wyboru mapy (w stylu ruletki).
+Przełączanie widoku widza
+Zmienia widok między trzecią osobą a widokiem orbitalnym.

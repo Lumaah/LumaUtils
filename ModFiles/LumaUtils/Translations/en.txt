@@ -163,7 +163,7 @@ I will put you back together.
 We will make you stronger.
 His risks are worth nothing.
 The Guardian falls tonight.
-To whomever it may concern:\n\nWe are about to release an all out attack.\n\nAnd we’re coming for <color=red>you</color>.\n Sincerely - The Newborns.
+To whomever it may concern:\n\nWe are about to release an all out attack.\n\nAnd we’re coming for <color=red>you</color>.
 Players in Room(s)\n<color=#00FF00>Additional Content is Active</color>
 Players in Room(s)\n<color=#00FF00>Additional Content is Inactive</color>
 Enter Secret:
@@ -250,3 +250,5 @@ Custom Survival UI
 Changes how the UI in Survival looks.
 Roulette Map Selector
 Changes how the map selection looks (roulette-style)
+Spectator Toggle View
+Changes View between Third Person & Orbital

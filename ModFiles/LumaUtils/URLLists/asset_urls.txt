@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/Luma
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/AmmoBackground.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/Brute1.png
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/clockIcon.png
+https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/Imposter.png
 
 [Images\Collect:Collect Textures]
 https://raw.githubusercontent.com/Lumaah/LumaUtils/refs/heads/main/ModFiles/LumaUtils/Images/Collect/camera.png

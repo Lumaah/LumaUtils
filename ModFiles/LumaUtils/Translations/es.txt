@@ -163,7 +163,7 @@ Volveré a juntar tu cuerpo.
 Te haremos más fuerte.
 Sus riesgos no valen nada.
 El Guardián cae esta noche.
-A quién concierna:\n\nVamos a liberar un ataque total.\n\nY vamos a por <color=red>ti</color>.\n Sinceramente - Los Newborns.
+A quién concierna:\n\nVamos a liberar un ataque total.\n\nY vamos a por <color=red>ti</color>.
 Jugadores en Sala(s)\n<color=#00FF00>El Contenido Adicional está activo</color>
 Jugadores en Sala(s)\n<color=#00FF00>El Contenido Adicional está inactivo</color>
 Introduce Secreto:
@@ -246,3 +246,9 @@ Sí, ya sé que la página de carga se parece a Essential ahora.
 GUI Configuración
 Arma Adicional Displayer :
 Añade una nueva información gui para el arma actual que está sosteniendo
+Interfaz de usuario personalizada para Supervivencia.
+Cambia el aspecto de la interfaz de usuario en Supervivencia.
+Selector de mapas tipo ruleta.
+Cambia el aspecto de la selección de mapas (estilo ruleta).
+Alternar vista de espectador.
+Cambia la vista entre tercera persona y orbital.
