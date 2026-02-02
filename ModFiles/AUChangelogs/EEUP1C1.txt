@@ -1,13 +1,7 @@
-Among Others 0.2b Update is available.
+The Finale Update Part 1 is finally available.
 
 Changelog :
+Too many changes !!!!
+Please check in-game changelog.
 
-Added Translations (Spanish, Russian, French, Polish)
-Added GUI for Weapon Info
-Remade Reworked Collect Chase Effect
-18th asset updater rewrite.
-General Bugfixes & Optimizations
-Added custom font for Russian
-Changed Player Hitboxes (Now more accurate, and you can correctly hit players in deathmatch now.)
-
-(PLEASE NOTE THAT RUSSIAN TRANSLATION MIGHT HAVE SOME INACCURACIES)
+(Required update to play Multiplayer)
