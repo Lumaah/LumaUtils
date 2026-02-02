@@ -1,18 +1,54 @@
-LumaUtils - Among Others 0.2b
+LumaUtils - The Finale Update Part 1
 
 Discord Server:
 https://discord.gg/xYWRVvzfRF  
 
-Code-Wise
+Code Changes
 
-Added Translations (Spanish, Russian, French, Polish)
-Added GUI Settings
-Added GUI for Weapon Info
-Remade Reworked Collect Chase Effects
-18th asset updater rewrite.
-General Bugfixes & Optimizations
-Added custom font for Russian
-Changed Player Hitboxes (Now more accurate, and you can correctly hit players in deathmatch now.)
+Another Asset Updater Rewrite :sad:
+Remade internal LumaUtils settings
+Better AntiCheat
+Code Improvements here and there.
+Fixed Login (why sean)
+
+
+Content Changes/Additions
+
+This update is mainly focused on Survival.
+
+Sandbox : 
+
+Added Kleve (the other brute twin) in Sandbox
+Fixed Change Soundtrack URL
+Remade Change Soundtrack URL UI
+
+Survival :
+
+Changed NPC Spawning
+NPCs now spawns in small batches in waves getting bigger each waves.
+
+Added Vote Skip for Shop
+Added a slider to choose Shop Timer (20-60)
+Added Send Toasts Menu
+Changed how Boss healthbar looks
+
+Added Enraging for bosses
+Depending on difficulty, mini-bosses and bosses can now enrage when getting below half max hp
+
+Changed Survival UI
+Added a small animation when a new wave starts.
+Wave 10 is now a regular wave if you play on Hard and Impossible
+Wave 14 now contains a boss fight.
+Remade the Imposter Dialog Box
+Wave 15 is now a Boss Rush.
+
+Added a new soundtrack for Wave 10
+
+Others :
+
+Changed LumaUtils logo.
+
+
 
 (PLEASE NOTE THAT RUSSIAN TRANSLATION MIGHT HAVE SOME INACCURACIES)
 
@@ -29,19 +65,20 @@ LumaUtils - Credits
 
 Vantablack : Inspiration (FunPlusEssentials) & Helping me with some of the scripts
 Protivogaz : Helping me with some of the scripts
+AlivePo : Helping me with some of the scripts
 Toy : Making a logo (even tho it was changed) & Testing
-YellCrossMon : Making the new lumautils banner & discord server emojis
+YellCrossMon : Making the new lumautils banners & discord server emojis
 Jason 666 : Helping me with the blacklist
 Samuel Virkola : Made main menu OST, Fortress ambience, and survival new osts
 Xerxes1234 (ElementL) : Beta Testing , made previews, making the voiceline before Wave 15
-Cabinets : Made achievements, previews, epilepsy warning screen
+Cabinets : Made achievements, previews, epilepsy warning screen, and beta testing
 ToniTheKid : Beta Testing
 Rezz : Beta Testing
 Somethings : Beta Testing
 YeldarEddinHilal : Beta Testing
 Pgo_vr : Beta Testing
 k4ceace : Beta Testing
-Newy : Beta Testing
+Newy : Beta Testing & suggestions
 Doquk: Beta Testing
 Niko : Making original map select effect 
 You : for playing this mod :wink:
