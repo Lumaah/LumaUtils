@@ -105,6 +105,7 @@ https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/Survi
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/wave12.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/wave13.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/wave14.mp3
+https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/wave14i.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/wave15.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/waveshop.mp3
 https://github.com/Lumaah/LumaUtils/raw/refs/heads/main/ModFiles/LumaUtils/SurvivalOST/voiceline1.wav
