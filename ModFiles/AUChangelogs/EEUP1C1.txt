@@ -4,4 +4,6 @@ Changelog :
 Too many changes !!!!
 Please check in-game changelog.
 
+MAKE SURE TO CHANGE KEYBINDS !!!
+
 (Required update to play Multiplayer)
