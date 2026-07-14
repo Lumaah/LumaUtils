@@ -7,6 +7,7 @@ wave6 ; Wave 6 (Remix)
 wave7 ; Wave 7 (Remix)
 wave8 ; Wave 8 (Remix)
 wave9 ; Wave 9 (Remix)
+wave10 ; Wave 10 (Alt)
 wave11 ; Wave 11
 wave12 ; Wave 12
 wave13 ; Wave 13

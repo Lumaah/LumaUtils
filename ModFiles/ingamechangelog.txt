@@ -1,55 +1,32 @@
-LumaUtils - Wait that's not the part 2 update? update
+LumaUtils - The Sight Update
 
 Discord Server:
 https://discord.gg/xYWRVvzfRF  
 
--- Code Changes --
+Content Additions
 
-Remade LumaUtils Settings from 0
-Fixed LumaUtils crashing on first setup
-Fixed MainMenu Changes not loading on Slendytubbies 3 first setup
-Fixed Endless Survival softlocking on wave 14
-And not a single asset updater change for once !!!!
-
--- Content Changes/Additions --
-
-Removed custom music in Sandbox 
-(until i find a new file hosting service)
-
-Removed Military Outpost
-
-Added WIP Changes to AI
-
-Runners newborns now have a change to :
-Depending on the difficulty
-Easy (After wave 4) :
-5% of chance to run when mid hp
-2.5% of chance to spawn running
-
-Normal (After wave 4) :
-20% of chance to run when mid hp
-10% of chance to spawn running
-
-Hard (After wave 5) :
-50% of chance to run when mid hp
-25% of chance to spawn running
-
-Impossible (After wave 5) :
-75% of chance to run when mid hp
-50% of chance to spawn running
-
-Hard (After wave 10) :
-75% of chance to run when mid hp
-50% of chance to spawn running
-
-Impossible (After wave 10) :
-100% of chance to run when mid hp
-75% of chance to spawn running
+Added Emojis in chat (works like in discord)
+Reworked NPCs spawning in Survival
+Readded Custom Soundtrack (File) in Sandbox
+Added in-game announcements
+Remade Sandbox dark mode theme
+Added Survival dark mode theme
+Remade room selector UI
+Added hit-markers
+Added Sanity Mode for collect (to disable those pesky hallucinations)
+Added Advanced Fly Camera in Sandbox (make sure to check your keybinds)
 
 
-Rocket Newborns (and military guys) now have a 1/10 chance to fire 3 rockets at once (they deal less damage)
+Code-Wise
 
-NPCs now have a proper "delete" animation.
+Countless code reworks
+Fixed Impostor introduction in wave 14 showing only for host.
+Fixed wave 15 spawning npcs 1 by 1 in endless.
+Changed how players are identified if they don't have a zeoworks account.
+Changed game is outdated text, if you're not on the correct LumaUtils version.
+Fixed VSync
+Fixed Fall Damage randomly damaging you 
+Fixed Fall Damage being based on your Framerate
 
 
 
