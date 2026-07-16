@@ -252,3 +252,7 @@ Selector de mapas tipo ruleta.
 Cambia el aspecto de la selección de mapas (estilo ruleta).
 Alternar vista de espectador.
 Cambia la vista entre tercera persona y orbital.
+Tecla del Menú de Cámara Avanzada :
+Alterna el Menú de Cámara Avanzada (mientras la cámara libre está activa)
+Tecla de Teletransporte al Jugador :
+Teletransporta la cámara libre al jugador seleccionado (Cámara Avanzada)

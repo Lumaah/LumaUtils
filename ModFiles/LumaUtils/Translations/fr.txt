@@ -252,3 +252,7 @@ Sélecteur de carte roulette
 Modifie l'apparence de la sélection de carte (style roulette).
 Affichage spectateur
 Permet de basculer entre la vue à la troisième personne et la vue orbitale.
+Touche Menu Caméra Avancée :
+Active/désactive le Menu Caméra Avancée (quand la caméra libre est active)
+Touche Téléportation vers Joueur :
+Téléporte la caméra libre vers le joueur sélectionné (Caméra Avancée)

@@ -252,3 +252,7 @@ Roulette Map Selector
 Changes how the map selection looks (roulette-style)
 Spectator Toggle View
 Changes View between Third Person & Orbital
+Advanced Camera Menu Keybind :
+Toggle the Advanced Camera menu (while the fly camera is active)
+Teleport to Player Keybind :
+Teleport the fly camera to the currently selected player (Advanced Camera)
