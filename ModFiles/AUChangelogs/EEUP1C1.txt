@@ -1,6 +1,7 @@
-The Sight Update is available.
+The Sight Update Bugfix 1 is available.
 
 Changelog :
-Too many changes jesus !!!!
+More security
+Fixed Endless
 Please check in-game changelog.
 
